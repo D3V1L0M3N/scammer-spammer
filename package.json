@@ -1,0 +1,16 @@
+{
+  "name": "scammer-spammer",
+  "version": "1.0.0",
+  "description": "A simple script to send bogus data to scammer's Telegram bot.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "keywords": [],
+  "author": "D3V1L0M3N",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "node-fetch": "^2.6.1"
+  }
+}
